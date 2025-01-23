@@ -9,7 +9,7 @@ body {
   .cv-container {
     display: flex;
     gap: 20px;
-    width: 1200px;
+    width: 900px;
     margin: 20px auto;
     background-color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -67,9 +67,10 @@ body {
   
   .right-section h2 {
     font-size: 18px;
-    color: #555;
+    color: black;
     margin-top: 5px;
     margin-bottom: 20px;
+    letter-spacing: 4px;
   }
   .limite{
     max-width: 500px;
